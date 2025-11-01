@@ -20,7 +20,7 @@ public class BasicJava {
     }
 
     Candidate candidate1 = new Candidate();
-    Candidate candidate3 = new Candidate();
+    Candidate candidate2 = new Candidate();
 
 
     public static void main() {
